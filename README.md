@@ -1,5 +1,5 @@
 💾 <b>Olá! Me chamo Raphael de Lima Dias</b> <br/>
-🖥️ Atualmente acadêmico de Engenharia Eletrônica pela UTFPR e me tornando Desenvolvedor Fullstack no curso DevinHouse pelo SENAI-SC
+🖥️ Atualmente sou acadêmico de Engenharia Eletrônica pela UTFPR e estou me tornando Desenvolvedor Fullstack no curso DevinHouse pelo SENAI-SC
 
 
 
